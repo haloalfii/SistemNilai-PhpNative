@@ -8,11 +8,11 @@
                     Lihat Guru
                 </a>
                 <a class="nav-link" href="lihat-siswa.php">
-                    <div class="sb-nav-link-icon"><i class="fa fa-user-plus"></i></div>
+                    <div class="sb-nav-link-icon"><i class="fa fa-users"></i></div>
                     Lihat Siswa
                 </a>
                 <a class="nav-link" href="input-siswa.php">
-                    <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>
+                    <div class="sb-nav-link-icon"><i class="fa fa-user-plus"></i></div>
                     Input Data Siswa
                 </a>
                 <a class="nav-link" href="lihat-nilai.php">
